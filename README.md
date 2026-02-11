@@ -1,2 +1,3 @@
 # SK-DEMO
-This is my First git repository.
+This Is My First Git Repository.
+Sandeep More
